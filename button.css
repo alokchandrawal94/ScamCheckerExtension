@@ -1,0 +1,16 @@
+.button {
+  height: 40px;
+  width: 40px;
+  outline: none;
+  margin: 10px;
+  border: 2px solid #4CAF50;
+  border-radius: 2px;
+  background-color:  #008CBA!important;
+  font-size: 10px;
+}
+
+/* .button.current {
+  box-shadow: 0 0 0 2px white,
+              0 0 0 4px black;
+              
+} */
